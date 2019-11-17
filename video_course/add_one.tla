@@ -1,4 +1,4 @@
-----MODULE add_one-----
+----MODULE add_one----
 
 EXTENDS Integers
 VARIABLES i, program_counter
@@ -15,4 +15,4 @@ Add1 == /\ program_counter = "middle"
 
 Next == Pick \/ Add1
 
-=======================
+====
