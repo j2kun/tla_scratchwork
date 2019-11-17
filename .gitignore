@@ -1,0 +1,8 @@
+# TLA toolbox junk
+*SnapShot*
+.project
+.settings
+*.launch
+
+# output files
+*.out
